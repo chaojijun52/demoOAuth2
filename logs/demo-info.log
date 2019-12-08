@@ -1,0 +1,4 @@
+2019-12-08 at 09:34:28 CST INFO  [Test worker] com.example.demoOAuth2.DemoOAuth2ApplicationTests 55 logStarting - Starting DemoOAuth2ApplicationTests on PC-20190922WBTO with PID 7824 (started by Administrator in E:\Projects\demoOAuth2)
+2019-12-08 at 09:34:28 CST INFO  [Test worker] com.example.demoOAuth2.DemoOAuth2ApplicationTests 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2019-12-08 at 09:34:32 CST WARN  [Test worker] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration 220 openEntityManagerInViewInterceptor - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-08 at 09:34:35 CST INFO  [Test worker] com.example.demoOAuth2.DemoOAuth2ApplicationTests 61 logStarted - Started DemoOAuth2ApplicationTests in 7.531 seconds (JVM running for 9.556)
